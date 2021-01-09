@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/views/admin/index.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/admin/order.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/checkout.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/detail.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/login.jsp=UTF-8
+encoding//src/watershop/controller/AdminController.java=UTF-8
+encoding//src/watershop/controller/CartController.java=UTF-8
+encoding//src/watershop/controller/HomeController.java=UTF-8
+encoding//src/watershop/entity/Customer.java=UTF-8
